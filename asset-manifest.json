@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Website-Clone/static/css/main.77766df7.css",
+    "main.js": "/React-Website-Clone/static/js/main.fbc9d412.js",
+    "static/js/453.aca37b77.chunk.js": "/React-Website-Clone/static/js/453.aca37b77.chunk.js",
+    "static/media/carousel1.jpg": "/React-Website-Clone/static/media/carousel1.17a3e87aade61acbb0c6.jpg",
+    "static/media/2.jpg": "/React-Website-Clone/static/media/2.ac95ed7044204dbe9fbd.jpg",
+    "static/media/3.jpg": "/React-Website-Clone/static/media/3.fdbed94570ce70e84fb2.jpg",
+    "static/media/1.jpg": "/React-Website-Clone/static/media/1.72613f1bb902aa46d206.jpg",
+    "static/media/carousel2.jpg": "/React-Website-Clone/static/media/carousel2.ab048c5ad0e4826d51ef.jpg",
+    "static/media/8.jpg": "/React-Website-Clone/static/media/8.26f0227627300280d7c2.jpg",
+    "static/media/carousel3.jpg": "/React-Website-Clone/static/media/carousel3.1f2648d07784bd926e6d.jpg",
+    "static/media/carousel4.jpg": "/React-Website-Clone/static/media/carousel4.08b0249f9cbe36c10e14.jpg",
+    "static/media/7.jpg": "/React-Website-Clone/static/media/7.5a995858c65ea6a58153.jpg",
+    "static/media/6.jpg": "/React-Website-Clone/static/media/6.0615098eaabde16fdc3e.jpg",
+    "static/media/logo.svg": "/React-Website-Clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Website-Clone/index.html",
+    "main.77766df7.css.map": "/React-Website-Clone/static/css/main.77766df7.css.map",
+    "main.fbc9d412.js.map": "/React-Website-Clone/static/js/main.fbc9d412.js.map",
+    "453.aca37b77.chunk.js.map": "/React-Website-Clone/static/js/453.aca37b77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77766df7.css",
+    "static/js/main.fbc9d412.js"
+  ]
+}
